@@ -1,0 +1,53 @@
+{
+  "school": {
+    "schoolId": "SCH001",
+    "name": "Green Valley High School",
+    "address": {
+      "street": "12 Main Road",
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "country": "India",
+      "postalCode": "560001"
+    },
+    "principal": "Anita Sharma",
+    "establishedYear": 1998,
+    "students": [
+      {
+        "studentId": "STU001",
+        "name": {
+          "firstName": "Rahul",
+          "lastName": "Kumar"
+        },
+        "age": 15,
+        "gender": "Male",
+        "grade": 10,
+        "section": "A",
+        "email": "rahul.kumar@example.com",
+        "subjects": [
+          "Mathematics",
+          "Science",
+          "English",
+          "Social Studies"
+        ]
+      },
+      {
+        "studentId": "STU002",
+        "name": {
+          "firstName": "Priya",
+          "lastName": "Sharma"
+        },
+        "age": 14,
+        "gender": "Female",
+        "grade": 9,
+        "section": "B",
+        "email": "priya.sharma@example.com",
+        "subjects": [
+          "Mathematics",
+          "Science",
+          "English",
+          "Computer Science"
+        ]
+      }
+    ]
+  }
+}
